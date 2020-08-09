@@ -1,4 +1,4 @@
-# FB609 Final Project: Valuing Basket Options :octocat:
+# :blossom: FB609 Final Project: Valuing Basket Options :octocat::blossom:
 
 This repository contains Python Implementation of our Basket Options Evaluation Project.
 
